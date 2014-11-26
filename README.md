@@ -3,7 +3,7 @@ App
 
 ```json
 {
-"tv": {
+"app": {
         "appid": "",
         "remoteids": [ ],
         "appcreationphnumber": "",
