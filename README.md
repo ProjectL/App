@@ -48,5 +48,6 @@ App
         "public": boolean,
         "verified": boolean,
         "inviteonly": boolean
-        
+        }
+        }
                             
