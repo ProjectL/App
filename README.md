@@ -18,11 +18,7 @@ App
         "appsecurityimageurl": "",
         "appsecurityimagetitle": "",
         "apptype": "",
-        "appsocialnetworks": [
-                          {
-                                
-                          }
-                        ],
+        "appsocialnetworks": [ {} ],
         "applocale": "",
         "appinstalls": int,
         "apprating": float,
