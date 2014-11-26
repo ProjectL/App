@@ -1,7 +1,7 @@
 App
 ===
 
-
+```json
 {
 "tv": {
         "appid": "",
@@ -46,4 +46,4 @@ App
         "inviteonly": boolean
         }
         }
-                            
+```                     
